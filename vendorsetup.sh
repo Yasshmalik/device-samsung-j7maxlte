@@ -1,0 +1,3 @@
+add_lunch_combo lineage_j7maxlte-user
+add_lunch_combo lineage_j7maxlte-userdebug
+add_lunch_combo lineage_j7maxlte-eng
